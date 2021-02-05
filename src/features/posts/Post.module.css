@@ -1,0 +1,7 @@
+.post{
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #555;
+    background-color:rgb(228, 251, 255);
+}
